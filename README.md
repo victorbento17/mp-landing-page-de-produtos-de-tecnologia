@@ -1,9 +1,10 @@
+## Landing page de Produtos de tecnologia
 Crie uma landing page responsiva que apresenta smartphones e smartwatches, simulando uma página inicial de um e-commerce. O objetivo é aplicar conceitos de HTML e CSS para criar uma estrutura bem organizada e estilizada. A página deve ser funcional e focada no design, com elementos que simulam uma experiência real de compra online.
 
 ## 🤓 Antes de começar
 
 >[!NOTE]   
-> Esse projeto é focado só na construção do HTML & CSS, a parte do javascript vai ficar para um segundo projeto que será anexado o link aqui.
+> Esse projeto é focado só na construção do HTML & CSS, a parte do javascript faz parte de outro projeto, você pode acessar [aqui](https://codante.io/mini-projetos/aprenda-na-pratica-filter-foreach-e-sort)
 Fique a vontade para implementar as funcionalidades dos botões 
 
 Certifique-se de ter instalado um editor de código (recomendamos o VS Code).
