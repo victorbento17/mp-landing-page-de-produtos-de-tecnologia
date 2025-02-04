@@ -1,4 +1,3 @@
-## Landing page de Produtos de tecnologia
 Crie uma landing page responsiva que apresenta smartphones e smartwatches, simulando uma página inicial de um e-commerce. O objetivo é aplicar conceitos de HTML e CSS para criar uma estrutura bem organizada e estilizada. A página deve ser funcional e focada no design, com elementos que simulam uma experiência real de compra online.
 
 ## 🤓 Antes de começar
