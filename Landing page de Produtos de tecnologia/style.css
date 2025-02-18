@@ -1,0 +1,99 @@
+/* Removendo a barra de rolagem horizontal */
+html, body {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+/* Fundo preto */
+body {
+    background-color: #000 !important;
+    color: #ccc;
+}
+
+/* Navbar preta */
+.navbar {
+    background-color: #000 !important;
+    border-bottom: #fff !important;
+    padding: 15px 50px;
+}
+
+/* Links da navbar */
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ccc !important;
+}
+
+/* Ícones */
+.nav-link i {
+    color: white !important;
+    transition: color 0.3s ease-in-out;
+}
+
+.nav-link i:hover {
+    color: #ccc !important;
+}
+
+/* Botão "Comprar" */
+.btn-outline-light {
+    color: black !important;
+    background-color: white !important;
+    border: 2px solid white !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+/* Botão Comprar Agora */
+.col-md-6 .btn-outline-light { 
+    background: linear-gradient(to bottom, #25b4c7, #c40fa6);
+    color: #fff !important;
+    border-radius: 50px; /* Agora fica em formato de cápsula */
+    padding: 5px 20px; /* Garante um formato mais largo */
+    border: none !important
+}
+
+.btn-outline-light:hover {
+    background-color: #ddd !important;
+    color: black !important;
+}
+
+/* Seção principal */
+.container-fluid {
+    max-width: 100%;
+    padding: 0px !important;
+    margin: 0 !important;
+}
+
+/* Ajustando o row para evitar overflow */
+.row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+/* Imagem responsiva */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Evita espaços extras abaixo da imagem */
+}
+
+/* Ajustando a altura da seção para ocupar toda a tela */
+.vh-100 {
+    min-height: 100vh;
+}
+
+/* Títulos */
+h2 {
+    font-size: 20px;
+    color: #838383;
+}
+
+h1 {
+    font-size: 50px;
+    color: #ccc;
+    font-weight: 300;
+}
